@@ -201,3 +201,4 @@ We also provide our masks for CelebA-HQ-val and Places-val [here](https://mycuhk
 ## License and Acknowledgement
 The code and models in this repo are for research purposes only. Our code is bulit upon [StyleGAN2-ADA](https://github.com/NVlabs/stylegan2-ada-pytorch).
 # MAT
+# MAT
